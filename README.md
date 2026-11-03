@@ -24,5 +24,5 @@ A Unity 6 interactive inspection training app featuring procedural 3D machine mo
 
 &#x20;  ```bash
 
-&#x20;  git clone \[https://github.com/your-username/your-repository-name.git](https://github.com/your-username/your-repository-name.git)
+&#x20;  git clone https://github.com/efrin03/ARInspectionTrainer
 
